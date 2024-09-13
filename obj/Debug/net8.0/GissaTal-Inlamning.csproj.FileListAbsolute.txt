@@ -1,0 +1,14 @@
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0\GissaTal-Inlamning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0\GissaTal-Inlamning.AssemblyInfoInputs.cache
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0\GissaTal-Inlamning.AssemblyInfo.cs
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0\GissaTal-Inlamning.csproj.CoreCompileInputs.cache
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\bin\Debug\net8.0\GissaTal-Inlamning.exe
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\bin\Debug\net8.0\GissaTal-Inlamning.deps.json
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\bin\Debug\net8.0\GissaTal-Inlamning.runtimeconfig.json
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\bin\Debug\net8.0\GissaTal-Inlamning.dll
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\bin\Debug\net8.0\GissaTal-Inlamning.pdb
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0\GissaTal-Inlamning.dll
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0\refint\GissaTal-Inlamning.dll
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0\GissaTal-Inlamning.pdb
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0\GissaTal-Inlamning.genruntimeconfig.cache
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0\ref\GissaTal-Inlamning.dll

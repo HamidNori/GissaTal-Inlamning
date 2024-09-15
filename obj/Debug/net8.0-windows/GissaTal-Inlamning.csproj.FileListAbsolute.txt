@@ -12,3 +12,4 @@ C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0-win
 C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0-windows\GissaTal-Inlamning.pdb
 C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0-windows\GissaTal-Inlamning.genruntimeconfig.cache
 C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0-windows\ref\GissaTal-Inlamning.dll
+C:\Users\hamno\OneDrive\Documents\GitHub\GissaTal-Inlamning\obj\Debug\net8.0-windows\GissaTal-Inlamning.sourcelink.json

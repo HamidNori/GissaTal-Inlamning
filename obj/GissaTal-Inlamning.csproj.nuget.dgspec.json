@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamno\\OneDrive\\Documents\\GitHub\\GissaTal-Inlamning\\GissaTal-Inlamning.csproj": {}
+    "C:\\Github\\GissaTal-Inlamning\\GissaTal-Inlamning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamno\\OneDrive\\Documents\\GitHub\\GissaTal-Inlamning\\GissaTal-Inlamning.csproj": {
+    "C:\\Github\\GissaTal-Inlamning\\GissaTal-Inlamning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamno\\OneDrive\\Documents\\GitHub\\GissaTal-Inlamning\\GissaTal-Inlamning.csproj",
+        "projectUniqueName": "C:\\Github\\GissaTal-Inlamning\\GissaTal-Inlamning.csproj",
         "projectName": "GissaTal-Inlamning",
-        "projectPath": "C:\\Users\\hamno\\OneDrive\\Documents\\GitHub\\GissaTal-Inlamning\\GissaTal-Inlamning.csproj",
-        "packagesPath": "C:\\Users\\hamno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamno\\OneDrive\\Documents\\GitHub\\GissaTal-Inlamning\\obj\\",
+        "projectPath": "C:\\Github\\GissaTal-Inlamning\\GissaTal-Inlamning.csproj",
+        "packagesPath": "C:\\Users\\hano07001\\.nuget\\packages\\",
+        "outputPath": "C:\\Github\\GissaTal-Inlamning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hamno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hano07001\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"

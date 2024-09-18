@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GissaTal-Inlamning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed4ed22294cac9fbedf563d2842b447811527152")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfc71c610a50d877f0311b24d790c146620b0d46")]
 [assembly: System.Reflection.AssemblyProductAttribute("GissaTal-Inlamning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GissaTal-Inlamning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
